@@ -1,8 +1,3 @@
-# Tệp: friend_filter.py
-
-def test_xin_chao():
-    print(3333)
-
 def friend(names, a = "fgfgfgf"):
     # Khai báo một hàm có tên 'friend' nhận đầu vào là danh sách tên
     
