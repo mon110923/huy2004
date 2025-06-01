@@ -1,0 +1,32 @@
+{
+  "weather_data": [
+    {
+      "date": "2024-01-01",
+      "city": "Hà Nội",
+      "temperature": 15,
+      "humidity": 80,
+      "rainfall": 0
+    },
+    {
+      "date": "2024-01-02", 
+      "city": "Hà Nội",
+      "temperature": 18,
+      "humidity": 75,
+      "rainfall": 5
+    },
+    {
+      "date": "2024-01-01",
+      "city": "TP.HCM",
+      "temperature": 28,
+      "humidity": 85,
+      "rainfall": 0
+    },
+    {
+      "date": "2024-01-02",
+      "city": "TP.HCM", 
+      "temperature": 30,
+      "humidity": 90,
+      "rainfall": 10
+    }
+  ]
+}
