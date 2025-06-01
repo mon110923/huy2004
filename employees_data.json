@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Phạm Văn A",
+      "department": "IT",
+      "salary": 15000000,
+      "experience_years": 3
+    },
+    {
+      "id": 2,
+      "name": "Võ Thị B", 
+      "department": "Marketing",
+      "salary": 12000000,
+      "experience_years": 2
+    },
+    {
+      "id": 3,
+      "name": "Hoàng Văn C",
+      "department": "IT",
+      "salary": 20000000,
+      "experience_years": 5
+    }
+  ]
+}
