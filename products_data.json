@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Điện thoại iPhone 15",
+            "price": 25000000,
+            "category": "Điện tử",
+            "stock": 50
+        },
+        {
+            "id": 3,
+            "name": "Áo thun Nike Mới",
+            "price": 600000,
+            "category": "Thời trang",
+            "stock": 80
+        },
+        {
+            "id": 4,
+            "name": "Giày Adidas",
+            "price": 2000000,
+            "category": "Thời trang",
+            "stock": 25
+        },
+        {
+            "id": 5,
+            "name": "Tai nghe Bluetooth",
+            "price": 1000000,
+            "category": "Điện tử",
+            "stock": 30
+        }
+    ]
+}
